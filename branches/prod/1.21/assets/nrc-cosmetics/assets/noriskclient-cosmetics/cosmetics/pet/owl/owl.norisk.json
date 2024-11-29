@@ -1,0 +1,45 @@
+{
+    "id": "bf1ede4b-1ca3-4407-afa5-ce95f1cd8a32",
+    "name": "Owl",
+    "creator": "Jakob",
+    "price": 900,
+    "type": "PET",
+    "path": "owl",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 3.04,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.5,
+            "y": -2.62,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": false,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": "ORIGINAL",
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "X_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

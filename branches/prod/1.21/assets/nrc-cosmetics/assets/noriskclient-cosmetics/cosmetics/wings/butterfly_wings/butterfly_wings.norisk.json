@@ -1,0 +1,36 @@
+{
+    "id": "042439a6-b691-456f-914e-df266eadf486",
+    "name": "ButterflyWings",
+    "creator": "Jakob",
+    "price": 900,
+    "type": "WINGS",
+    "path": "butterfly_wings",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 1.58,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.69,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE"
+}

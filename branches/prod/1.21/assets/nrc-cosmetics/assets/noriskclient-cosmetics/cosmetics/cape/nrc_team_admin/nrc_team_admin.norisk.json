@@ -1,0 +1,37 @@
+{
+    "id": "50000000-0000-0000-0000-000000000000",
+    "name": "NRC Team Admin",
+    "creator": "Mehrer",
+    "price": 0,
+    "type": "CAPE",
+    "path": "nrc_team_admin",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNOBTAINABLE",
+    "isExclusive": true
+}

@@ -1,0 +1,43 @@
+{
+    "id": "5c5855ce-a461-4734-b365-5a35871733c3",
+    "name": "SlimeOverlay",
+    "creator": "Mojang",
+    "price": 500,
+    "type": "OVERLAY",
+    "path": "slime_overlay",
+    "defaultSettings": {
+        "color": {
+            "red": 0.023529412,
+            "green": 1.0,
+            "blue": 0.0,
+            "alpha": 0.3,
+            "chroma": false
+        },
+        "scale": 0.9575,
+        "previewScale": 3.42,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.62,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

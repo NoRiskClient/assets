@@ -1,0 +1,45 @@
+{
+    "id": "b0b4630a-f987-409e-b6e9-a6e6f2cb5852",
+    "name": "RiceHat",
+    "creator": "Antowka",
+    "price": 500,
+    "type": "HAT",
+    "path": "rice_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 2.25,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.13,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

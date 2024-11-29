@@ -1,0 +1,40 @@
+{
+    "id": "f8364e06-da37-4c9a-b97e-ead791e68245",
+    "name": "Greeke Helmet",
+    "creator": "Mareeeek",
+    "price": 500,
+    "type": "HAT",
+    "path": "greeke_helmet",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.5,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.22,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "disabledBodyParts": [
+        "HAT"
+      ],
+    "isExclusive": false
+}

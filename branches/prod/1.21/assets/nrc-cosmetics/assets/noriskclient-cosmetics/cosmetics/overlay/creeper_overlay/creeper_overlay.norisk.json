@@ -1,0 +1,43 @@
+{
+    "id": "7294a49d-ff58-495b-a5e4-573260e2a109",
+    "name": "CreeperLightning",
+    "creator": "Mojang",
+    "price": 900,
+    "type": "OVERLAY",
+    "path": "creeper_overlay",
+    "defaultSettings": {
+        "color": {
+            "red": 0.0,
+            "green": 0.41568628,
+            "blue": 0.70980394,
+            "alpha": 1.0,
+            "chroma": false
+        },
+        "scale": 0.9575,
+        "previewScale": 3.33,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.64,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

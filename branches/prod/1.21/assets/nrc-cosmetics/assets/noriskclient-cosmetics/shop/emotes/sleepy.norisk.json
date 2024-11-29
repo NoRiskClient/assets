@@ -1,0 +1,9 @@
+ {
+	"id": "401e878f-cf87-4407-a58d-9f7cc2d04f03",
+	"price": 500,
+	"rarity": "UNCOMMON",
+	"name": "Sleepy",
+	"creator": "Ghis",
+	"emoteFile": "sleepy.animation.json",
+	"category": "CLASSIC"
+  }

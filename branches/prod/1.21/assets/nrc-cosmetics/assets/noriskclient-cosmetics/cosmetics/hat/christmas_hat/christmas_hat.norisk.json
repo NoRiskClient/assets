@@ -1,0 +1,37 @@
+{
+    "id": "f023d13e-ccd1-45d3-863c-ad59cfeab95c",
+    "name": "ChristmasHat",
+    "creator": "Mareeeek",
+    "price": 300,
+    "type": "HAT",
+    "path": "christmas_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.13,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -0.47,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "COMMON",
+    "isExclusive": false
+}

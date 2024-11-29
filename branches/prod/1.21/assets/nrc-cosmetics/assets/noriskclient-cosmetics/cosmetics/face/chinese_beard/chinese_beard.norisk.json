@@ -1,0 +1,45 @@
+{
+    "id": "c6a88413-e0a9-43a4-a62d-01b06220d371",
+    "name": "ChineseBeard",
+    "creator": "Antowka",
+    "price": 300,
+    "type": "FACE",
+    "path": "chinese_beard",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 4.56,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -0.25,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -0.5,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "COMMON",
+    "isExclusive": false
+}

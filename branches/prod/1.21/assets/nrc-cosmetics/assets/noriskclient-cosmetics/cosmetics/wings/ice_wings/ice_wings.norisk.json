@@ -1,0 +1,36 @@
+{
+    "id": "fc8f00af-d668-4bda-8861-71cc19a5764e",
+    "name": "IceWings",
+    "creator": "Mareeeek",
+    "price": 900,
+    "type": "WINGS",
+    "path": "ice_wings",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 1.79,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.02,
+            "y": -0.78,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE"
+}

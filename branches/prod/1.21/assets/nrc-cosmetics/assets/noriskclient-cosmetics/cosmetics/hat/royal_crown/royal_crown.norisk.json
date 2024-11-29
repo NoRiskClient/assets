@@ -1,0 +1,37 @@
+{
+    "id": "48a320b4-be06-404a-983c-4554bad8c529",
+    "name": "RoyalCrown",
+    "creator": "Mareeeek",
+    "price": 500,
+    "type": "HAT",
+    "path": "royal_crown",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.1,
+        "previewScale": 3.19,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.38,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

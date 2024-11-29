@@ -1,0 +1,37 @@
+{
+    "id": "8583a800-132e-4a3f-aa6c-d9240adf0da4",
+    "name": "Katana",
+    "creator": "Jakob",
+    "price": 900,
+    "type": "ACCESSORIES",
+    "path": "katana",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.45,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 9.0,
+            "y": 7.5,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.4,
+            "y": -0.62,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": "ORIGINAL",
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

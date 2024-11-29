@@ -1,0 +1,39 @@
+{
+    "id": "14686a6a-5476-4092-9713-be7fd34dedba",
+    "name": "White Lightning",
+    "creator": "SecondHydra",
+    "price": 1200,
+    "type": "CAPE",
+    "path": "white_lightning",
+    "defaultSettings": {
+        "frames": 14,
+        "frameDelay": 72,
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

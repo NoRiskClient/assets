@@ -1,0 +1,39 @@
+{
+    "id": "b0f42c3d-b41a-463b-ae42-006e6bebd83c",
+    "name": "Uchiha Blue",
+    "creator": "Sasukey",
+    "price": 1200,
+    "type": "CAPE",
+    "path": "uchiha_blue",
+    "defaultSettings": {
+        "frames": 20,
+        "frameDelay": 72,
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

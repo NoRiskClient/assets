@@ -1,0 +1,38 @@
+{
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Nitro Boost",
+    "creator": "Tim (aim_shock)",
+    "price": -1,
+    "type": "HAT",
+    "path": "nitro_booster",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.6,
+        "previewScale": 4.73,
+        "offset": {
+            "x": 0.0,
+            "y": -3.5,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.64,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "LEGENDARY",
+    "isExclusive": true,
+    "isExclusiveReason": "nrc.exclusive.reason.discord_boost"
+}

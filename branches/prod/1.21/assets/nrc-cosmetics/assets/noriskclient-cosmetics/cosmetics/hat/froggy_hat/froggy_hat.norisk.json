@@ -1,0 +1,37 @@
+{
+    "id": "5bbf9315-5fa2-40f6-b81f-02cfdd8efce7",
+    "name": "FroggyHat",
+    "creator": "Mareeeek",
+    "price": 500,
+    "type": "HAT",
+    "path": "froggy_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.83,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.38,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

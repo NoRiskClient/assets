@@ -1,0 +1,135 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 4,
+				"visible_bounds_height": 5.5,
+				"visible_bounds_offset": [0, 2.25, 0]
+			},
+			"bones": [
+				{
+					"name": "bipedHead",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "armorHead",
+					"parent": "bipedHead",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "bipedBody",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "armorBody",
+					"parent": "bipedBody",
+					"pivot": [0, 24, 0]
+				},
+				{
+					"name": "amaryllis",
+					"parent": "armorBody",
+					"pivot": [0, 24, 0],
+					"rotation": [0, -90, 0]
+				},
+				{
+					"name": "r",
+					"parent": "amaryllis",
+					"pivot": [1.9, 16, 3],
+					"cubes": [
+						{"origin": [-1.1, 9, -3.5], "size": [0, 13, 20], "pivot": [13.9, 0, -14], "rotation": [0, 15, 0], "uv": [80, 14]}
+					]
+				},
+				{
+					"name": "l",
+					"parent": "amaryllis",
+					"pivot": [1.9, 16, -2],
+					"cubes": [
+						{"origin": [7.67974, 22, -19.63544], "size": [0, 14, 20], "pivot": [4.67974, 29, -9.63544], "rotation": [-5.85463, -13.83447, 23.21088], "uv": [40, 0]}
+					]
+				},
+				{
+					"name": "ul",
+					"parent": "amaryllis",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [6.9, 9, -17.5], "size": [0, 13, 20], "pivot": [13.9, 0, -17], "rotation": [0, -15, 0], "uv": [40, 14]}
+					]
+				},
+				{
+					"name": "ur",
+					"parent": "amaryllis",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [7.7169, 22, -0.31623], "size": [0, 14, 20], "pivot": [4.7169, 29, 9.68377], "rotation": [5.85463, 13.83447, 23.21088], "uv": [80, 0]}
+					]
+				},
+				{
+					"name": "bl",
+					"parent": "amaryllis",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [5.67974, 0.6, -19.63544], "size": [0, 9, 20], "pivot": [4.67974, 4.5, -9.63544], "rotation": [0, -15, -10], "uv": [40, 27]}
+					]
+				},
+				{
+					"name": "br",
+					"parent": "amaryllis",
+					"pivot": [0, 24, 0],
+					"cubes": [
+						{"origin": [5.7169, 0.6, -0.31623], "size": [0, 9, 20], "pivot": [4.7169, 4.5, 9.68377], "rotation": [0, 15, -10], "uv": [80, 27]}
+					]
+				},
+				{
+					"name": "bipedLeftArm",
+					"pivot": [-4, 22, 0]
+				},
+				{
+					"name": "armorLeftArm",
+					"parent": "bipedLeftArm",
+					"pivot": [-4, 22, 0]
+				},
+				{
+					"name": "bipedRightArm",
+					"pivot": [4, 22, 0]
+				},
+				{
+					"name": "armorRightArm",
+					"parent": "bipedRightArm",
+					"pivot": [4, 22, 0]
+				},
+				{
+					"name": "bipedLeftLeg",
+					"pivot": [-2, 12, 0]
+				},
+				{
+					"name": "armorLeftLeg",
+					"parent": "bipedLeftLeg",
+					"pivot": [-2, 12, 0]
+				},
+				{
+					"name": "armorLeftBoot",
+					"parent": "bipedLeftLeg",
+					"pivot": [-2, 12, 0]
+				},
+				{
+					"name": "bipedRightLeg",
+					"pivot": [2, 12, 0]
+				},
+				{
+					"name": "armorRightLeg",
+					"parent": "bipedRightLeg",
+					"pivot": [2, 12, 0]
+				},
+				{
+					"name": "armorRightBoot",
+					"parent": "bipedRightLeg",
+					"pivot": [2, 12, 0]
+				}
+			]
+		}
+	]
+}

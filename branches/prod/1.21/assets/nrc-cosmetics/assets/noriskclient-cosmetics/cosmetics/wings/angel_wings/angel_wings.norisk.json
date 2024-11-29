@@ -1,0 +1,36 @@
+{
+    "id": "0abc084e-8a9e-4218-97dc-10194b55a568",
+    "name": "Angel Wings",
+    "creator": "HitzLikeBanana",
+    "price": 900,
+    "type": "WINGS",
+    "path": "angel_wings",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 1.58,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.69,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE"
+}

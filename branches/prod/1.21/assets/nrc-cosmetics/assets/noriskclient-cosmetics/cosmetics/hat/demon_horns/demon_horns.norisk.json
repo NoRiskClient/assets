@@ -1,0 +1,45 @@
+{
+    "id": "a0157bd9-c72c-400e-a289-76178cf3d738",
+    "name": "Demon Horns",
+    "creator": "HitzLikeBanana",
+    "price": 500,
+    "type": "HAT",
+    "path": "demon_horns",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 5.15,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.55,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -0.5,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

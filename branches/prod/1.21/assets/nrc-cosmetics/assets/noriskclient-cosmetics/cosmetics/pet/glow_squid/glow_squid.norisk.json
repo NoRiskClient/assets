@@ -1,0 +1,52 @@
+{
+    "id": "eb4b7733-e9d7-4d27-a79e-c426bd0ea632",
+    "name": "Glow Squid",
+    "creator": "Mendel_03",
+    "price": 900,
+    "type": "PET",
+    "path": "glow_squid",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 2.73,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.48,
+            "y": -2.75,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": false,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": "ORIGINAL",
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "X_AXIS"
+        },
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

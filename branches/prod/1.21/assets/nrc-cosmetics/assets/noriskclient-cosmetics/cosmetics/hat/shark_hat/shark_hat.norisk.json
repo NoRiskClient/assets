@@ -1,0 +1,45 @@
+{
+    "id": "78bff1ca-b808-4763-b683-97e26de4533a",
+    "name": "SharkHat",
+    "creator": "Mereeeek",
+    "price": 500,
+    "type": "HAT",
+    "path": "shark_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 2.42,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.09,
+            "y": -0.17,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

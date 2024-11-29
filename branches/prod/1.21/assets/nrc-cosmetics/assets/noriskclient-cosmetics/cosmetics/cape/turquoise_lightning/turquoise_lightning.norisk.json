@@ -1,0 +1,39 @@
+{
+    "id": "b7f29836-ee27-449e-856d-8092dd6015f9",
+    "name": "Turquoise Lightning",
+    "creator": "SecondHydra",
+    "price": 1200,
+    "type": "CAPE",
+    "path": "turquoise_lightning",
+    "defaultSettings": {
+        "frames": 14,
+        "frameDelay": 72,
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

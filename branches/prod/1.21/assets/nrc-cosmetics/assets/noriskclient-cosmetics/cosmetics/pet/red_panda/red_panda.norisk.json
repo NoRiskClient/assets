@@ -1,0 +1,52 @@
+{
+    "id": "552bf56a-c479-4271-8d4a-90ceede970d4",
+    "name": "RedPanda V2",
+    "creator": "Mareeeek",
+    "price": 900,
+    "type": "PET",
+    "path": "red_panda",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 4.17,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.48,
+            "y": -2.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": "ORIGINAL",
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "X_AXIS"
+        },
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

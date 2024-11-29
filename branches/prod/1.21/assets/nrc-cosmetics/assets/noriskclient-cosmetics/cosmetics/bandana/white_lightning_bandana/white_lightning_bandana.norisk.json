@@ -1,0 +1,47 @@
+{
+    "id": "4cd21609-8b6a-4ad3-8c06-fe5066dc8109",
+    "name": "White Lightning",
+    "creator": "SecondHydra",
+    "price": 800,
+    "type": "BANDANA",
+    "path": "white_lightning_bandana",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.27,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -1.12,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null,
+        "frames": 14,
+        "frameDelay": 72
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

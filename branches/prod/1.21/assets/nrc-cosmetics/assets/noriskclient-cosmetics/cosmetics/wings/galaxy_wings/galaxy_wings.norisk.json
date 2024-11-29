@@ -1,0 +1,36 @@
+{
+    "id": "24039b76-f268-4d72-9ad2-d4062661c844",
+    "name": "Galaxy Wings",
+    "creator": "Bryan",
+    "price": 900,
+    "type": "WINGS",
+    "path": "galaxy_wings",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 1.5,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.64,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE"
+}

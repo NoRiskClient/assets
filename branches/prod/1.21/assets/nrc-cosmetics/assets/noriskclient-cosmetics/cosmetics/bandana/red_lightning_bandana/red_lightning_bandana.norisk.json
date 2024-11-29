@@ -1,0 +1,47 @@
+{
+    "id": "d7678ce4-728f-4762-a61b-1d2c621eb8d5",
+    "name": "Red Lightning",
+    "creator": "SecondHydra",
+    "price": 800,
+    "type": "BANDANA",
+    "path": "red_lightning_bandana",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.27,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -1.12,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null,
+        "frames": 14,
+        "frameDelay": 72
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

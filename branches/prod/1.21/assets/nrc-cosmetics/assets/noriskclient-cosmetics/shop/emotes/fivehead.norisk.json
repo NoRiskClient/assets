@@ -1,0 +1,9 @@
+ {
+	"id": "3ac8fc3e-1e36-4c4e-987d-962ad67a00f7",
+	"price": 900,
+	"rarity": "RARE",
+	"name": "FiveHead",
+	"creator": "SecondHydra",
+	"emoteFile": "fivehead/fivehead.animation.json",
+	"category": "FUNNY"
+  }

@@ -1,0 +1,19 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"waving": {
+			"animation_length": 0.64,
+			"bones": {
+				"bipedRightArm": {
+					"rotation": {
+						"vector": [0, 0, "127.5+Math.cos(query.anim_time * 1500 +25) * 15 "]
+					},
+					"position": {
+						"vector": [-2, 2, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

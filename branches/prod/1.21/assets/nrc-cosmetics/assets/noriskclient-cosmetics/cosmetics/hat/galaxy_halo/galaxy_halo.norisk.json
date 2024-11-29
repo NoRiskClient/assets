@@ -1,0 +1,37 @@
+{
+    "id": "b1af5415-29db-488a-a482-fde9c1dea029",
+    "name": "GalaxyHalo",
+    "creator": "Qiuvex",
+    "price": 900,
+    "type": "HAT",
+    "path": "galaxy_halo",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.23,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -0.57,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

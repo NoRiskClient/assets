@@ -1,0 +1,37 @@
+{
+    "id": "29b41900-ec2d-4788-b76c-e54b5ebd8e1a",
+    "name": "Trinkvogel",
+    "creator": "NoRiskk",
+    "price": 1200,
+    "type": "HAT",
+    "path": "trinkvogel",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.88,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.59,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

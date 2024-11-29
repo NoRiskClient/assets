@@ -1,0 +1,47 @@
+{
+    "id": "06978237-757a-4a58-a682-d146a396fd52",
+    "name": "Angel Halo",
+    "creator": "HitzLikeBanana",
+    "price": 500,
+    "type": "HAT",
+    "path": "angel_halo",
+    "defaultSettings": {
+        "frames": 19,
+        "frameDelay": 72,
+        "color": null,
+        "scale": 1.15,
+        "previewScale": 2.5,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -0.5,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

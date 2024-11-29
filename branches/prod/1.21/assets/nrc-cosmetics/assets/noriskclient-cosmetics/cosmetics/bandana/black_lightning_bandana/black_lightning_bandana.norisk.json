@@ -1,0 +1,47 @@
+{
+    "id": "2abdcfe8-21ec-4efc-ac48-cb85f3f2e709",
+    "name": "Black Lightning",
+    "creator": "SecondHydra",
+    "price": 1200,
+    "type": "BANDANA",
+    "path": "black_lightning_bandana",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 3.27,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.02,
+            "y": -1.12,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null,
+        "frames": 14,
+        "frameDelay": 72
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

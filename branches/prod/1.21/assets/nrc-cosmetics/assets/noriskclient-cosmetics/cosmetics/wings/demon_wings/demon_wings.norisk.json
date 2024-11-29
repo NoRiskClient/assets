@@ -1,0 +1,36 @@
+{
+    "id": "6d736762-db9c-42a2-8c6d-8e67d0d9bf7a",
+    "name": "Demon Wings",
+    "creator": "HitzLikeBana",
+    "price": 900,
+    "type": "WINGS",
+    "path": "demon_wings",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 1.5,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.64,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE"
+}

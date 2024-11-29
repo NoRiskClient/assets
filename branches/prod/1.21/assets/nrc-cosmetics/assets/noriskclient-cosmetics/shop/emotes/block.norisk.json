@@ -1,0 +1,9 @@
+ {
+	"id": "37e2eb26-b4f1-445f-b67a-062d03e863e5",
+	"price": 500,
+	"rarity": "UNCOMMON",
+	"name": "Block",
+	"creator": "HeroOfDungeon",
+	"emoteFile": "block.animation.json",
+	"category": "RANDOM"
+  }

@@ -1,0 +1,39 @@
+{
+    "id": "7eb053c0-fc68-4de6-a622-c748aa3971c0",
+    "name": "Ghost Purple",
+    "creator": "NoRiskk",
+    "price": 1200,
+    "type": "CAPE",
+    "path": "ghost_purple",
+    "defaultSettings": {
+        "frames": 14,
+        "frameDelay": 72,
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 2.9,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": -0.01,
+            "y": -0.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "EPIC",
+    "isExclusive": false
+}

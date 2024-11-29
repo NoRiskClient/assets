@@ -1,0 +1,37 @@
+{
+    "id": "e6324aa6-787b-470c-bba6-a35d29db8f86",
+    "name": "StrawHat",
+    "creator": "Mareeeek, Antowka, Tim",
+    "price": 300,
+    "type": "HAT",
+    "path": "straw_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.05,
+        "previewScale": 2.6,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.01,
+            "y": -0.28,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "COMMON",
+    "isExclusive": false
+}

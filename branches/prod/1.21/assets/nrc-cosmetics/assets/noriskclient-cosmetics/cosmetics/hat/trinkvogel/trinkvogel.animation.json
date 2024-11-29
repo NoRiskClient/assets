@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"nrc.idle": {
+			"loop": true,
+			"animation_length": 2.88,
+			"bones": {
+				"trinkvogel": {
+					"position": {
+						"vector": [0, -5.25, 0]
+					},
+					"scale": {
+						"vector": [0.2, 0.2, 0.2]
+					}
+				},
+				"body": {
+					"rotation": {
+						"0.4": {
+							"vector": [0, 0, 0],
+							"easing": "easeInCubic"
+						},
+						"1.44": {
+							"vector": [107.5, 0, 0],
+							"easing": "easeOutElastic"
+						},
+						"2.88": {
+							"vector": [0, 0, 0],
+							"easing": "easeInQuint"
+						}
+					}
+				}
+			},
+			"timeline": {
+				"1.44": "hit;"
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

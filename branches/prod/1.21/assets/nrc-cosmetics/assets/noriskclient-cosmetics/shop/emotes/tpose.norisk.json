@@ -1,0 +1,11 @@
+{
+  "id": "2a2f4ea8-df95-44dd-92ee-9620c147dd48",
+  "price": 900,
+  "rarity": "RARE",
+  "name": "T-Pose",
+  "creator": "M2____",
+  "emoteFile": "tpose.animation.json",
+  "isExclusive": true,
+  "isExclusiveReason": "nrc.exclusive.reason.tpose",
+  "category": "CLASSIC"
+}

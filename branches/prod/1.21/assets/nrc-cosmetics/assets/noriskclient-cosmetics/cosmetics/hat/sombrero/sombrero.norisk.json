@@ -1,0 +1,37 @@
+{
+    "id": "b10888c7-5adb-4bf5-986c-43a04fec049d",
+    "name": "Sombrero",
+    "creator": "Mareeeek",
+    "price": 300,
+    "type": "HAT",
+    "path": "sombrero",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.5,
+        "previewScale": 1.88,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.14,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "COMMON",
+    "isExclusive": false
+}

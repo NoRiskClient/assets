@@ -1,0 +1,43 @@
+{
+    "id": "9559926c-96f9-4f8e-8fc8-2a6d16bdc4df",
+    "name": "Wither Armor",
+    "creator": "Mojang",
+    "price": 900,
+    "type": "OVERLAY",
+    "path": "wither_armor",
+    "defaultSettings": {
+        "color": {
+            "red": 0.27450982,
+            "green": 0.27450982,
+            "blue": 0.27450982,
+            "alpha": 1.0,
+            "chroma": false
+        },
+        "scale": 0.9575,
+        "previewScale": 3.23,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.61,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

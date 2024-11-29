@@ -1,0 +1,11 @@
+{
+  "id": "fe654731-4d42-4386-8d0b-50ad032fb064",
+  "price": 900,
+  "rarity": "RARE",
+  "name": "Welcome",
+  "creator": "M2____",
+  "emoteFile": "welcome/welcome.animation.json",
+  "isExclusive": true,
+  "isExclusiveReason": "nrc.exclusive.reason.welcome",
+  "category": "RANDOM"
+}

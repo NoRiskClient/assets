@@ -1,0 +1,52 @@
+{
+    "id": "2e641cc0-f775-4234-9c99-3b78dc702913",
+    "name": "Penguin",
+    "creator": "Bryan",
+    "price": 900,
+    "type": "PET",
+    "path": "penguin",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.0,
+        "previewScale": 3.38,
+        "offset": {
+            "x": -0.2361111,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.5,
+            "y": -2.58,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": false,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": "ORIGINAL",
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "X_AXIS"
+        },
+        {
+            "range": {
+                "start": -1.0,
+                "endInclusive": 1.0
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "RARE",
+    "isExclusive": false
+}

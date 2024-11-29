@@ -1,0 +1,37 @@
+{
+    "id": "60df6293-8c0b-4bb9-994c-54184f900380",
+    "name": "Mini Crown",
+    "creator": "Bryan, idea by Andrew",
+    "price": 500,
+    "type": "HAT",
+    "path": "mini_crown",
+    "defaultSettings": {
+        "color": null,
+        "scale": 0.9575,
+        "previewScale": 5.15,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.55,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

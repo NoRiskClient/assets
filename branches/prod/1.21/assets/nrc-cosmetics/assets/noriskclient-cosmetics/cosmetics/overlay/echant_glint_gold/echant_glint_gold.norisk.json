@@ -1,0 +1,43 @@
+{
+    "id": "c99cbb40-9dda-41f0-8ab4-d6dc43d07a03",
+    "name": "EnchantingGlint",
+    "creator": "Mojang",
+    "price": 300,
+    "type": "OVERLAY",
+    "path": "echant_glint_gold",
+    "defaultSettings": {
+        "color": {
+            "red": 1.0,
+            "green": 1.0,
+            "blue": 1.0,
+            "alpha": 1.0,
+            "chroma": false
+        },
+        "scale": 0.9575,
+        "previewScale": 3.33,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.025
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.64,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [],
+    "compatibleCosmetics": [],
+    "rarity": "COMMON",
+    "isExclusive": false
+}

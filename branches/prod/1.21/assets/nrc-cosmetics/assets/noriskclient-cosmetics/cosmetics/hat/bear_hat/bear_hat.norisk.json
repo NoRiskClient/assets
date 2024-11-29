@@ -1,0 +1,45 @@
+{
+    "id": "f720fd41-175c-4b46-a0d5-65e6ecde3d90",
+    "name": "BearHat",
+    "creator": "Antowka",
+    "price": 500,
+    "type": "HAT",
+    "path": "bear_hat",
+    "defaultSettings": {
+        "color": null,
+        "scale": 1.15,
+        "previewScale": 2.5,
+        "offset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "previewOffset": {
+            "x": 0.0,
+            "y": -0.5,
+            "z": 0.0
+        },
+        "adjustRotationWhenSwimmingOrFlying": false,
+        "adjustPositionWhenSkeaking": true,
+        "sneakingPositionOffset": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "renderMode": null,
+        "hash": null
+    },
+    "layers": [],
+    "features": [
+        {
+            "range": {
+                "start": -0.5,
+                "endInclusive": 1.5
+            },
+            "type": "Y_AXIS"
+        }
+    ],
+    "compatibleCosmetics": [],
+    "rarity": "UNCOMMON",
+    "isExclusive": false
+}

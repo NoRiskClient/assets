@@ -121,7 +121,7 @@
     {
       "default": true,
       "name": "FerriteCore",
-      "required": true,
+      "required": false,
       "source": {
         "artifact": "maven.modrinth:ferrite-core:7.0.0-fabric",
         "repository": "modrinth",
